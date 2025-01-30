@@ -9,13 +9,14 @@ import { Link } from "react-router-dom";
 function HomeProfile() {
   return (
    <>
-     <div className="pt-[80px] bg-black pb-[40px]">
+     <div className="pt-[80px] bg-black pb-[40px] h-full">
       <div className="px-[20px] lg:px-[40px]">
         <div className="flex items-center space-x-[10px]">
           <div className="hidden lg:flex h-[3px] bg-[#FFFFFF] w-full"></div>
           <div className="w-full">
-            <p className=" text-white w-full text-center text-[25px] lg:text-[40px] font-[800] font-poppins">
-             AUTOBIOGRAHY OF<span className="text-[#AE8625]">AARE GBENGA EYIOLAWI</span>
+            <p className=" text-white w-full text-center text-[25px] lg:text-[25px] font-poppins italic">
+             {/* AUTOBIOGRAHY OF<span className="text-[#AE8625]">AARE GBENGA EYIOLAWI</span> */}
+             a piece of me
             </p>
           </div>
           <div className="hidden lg:flex h-[3px] bg-[#FFFFFF] w-full"></div>
@@ -28,7 +29,7 @@ function HomeProfile() {
           />
         </div>
         <div>
-        <p className="text-center lg:text-start text-white font-poppins mt-[40px] lg:mt-[110px] space-y-[20px]">
+        <p className="text-center lg:text-start text-white font-poppins mt-[40px] lg:mt-[110px] space-y-[20px] text-[15px]">
           <p>
           Gbenga Eyiolawi, (a Chartered Manager with the Chartered 
           Management Institute, United Kingdom) born on November 7,
@@ -255,14 +256,17 @@ function HomeProfile() {
         </div>
 
         <div className="pt-20">
-          <marquee>
-          <div className="flex h-32 justify-evenly">
-          <img src={punch} />
-          <img src={uneca} />
-          <img src={von} />
-          <img src={businesselite} />
+        <div>
+          <h4 className="flex justify-center items-center text-white pb-10 text-[20px]">As seen in the News</h4>
+        </div>
+          {/* <marquee> */}
+          <div className="flex md:h-32 md:justify-evenly flex-col md:flex-row justify-center items-center">
+          <img src={punch} className="w-20 h-20 md:w-36 md:h-36" />
+          <img src={uneca} className="w-20 h-20 md:w-36 md:h-36" />
+          <img src={von} className="w-20 h-20 md:w-36 md:h-36 mt-5" />
+          <img src={businesselite} className="w-20 h-20 md:w-36 md:h-36" />
           </div>
-          </marquee>
+          {/* </marquee> */}
         </div>
       </div>
    </>
