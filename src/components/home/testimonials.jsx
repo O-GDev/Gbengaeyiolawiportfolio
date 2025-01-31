@@ -85,7 +85,7 @@ We also give our collective support as traditional rulers from the Northern part
             <div className="h-[100px] lg:h-[140px] w-[100px] lg:w-[140px] border rounded-full">
             <img src={carousel1} className="h-full w-full rounded-full object-cover" alt="" />
             </div>
-            <p className="mt-[40px] font-poppins text-center">
+            <p className="mt-[40px] font-poppinsm text-center">
             "Some of our youths, like Gbenga here are so serious, and we have to support them to thrive in their legitimate businesses. We have to give them all the support they need to succeed in their businesses.”
 
 "I commend Gbenga and a couple of others across the country for standing up to the challenges in the competitive market.”

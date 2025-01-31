@@ -16,7 +16,7 @@ function HomeProfile() {
           <div className="w-full">
             <p className=" text-white w-full text-center text-[25px] lg:text-[25px] font-poppins italic">
              {/* AUTOBIOGRAHY OF<span className="text-[#AE8625]">AARE GBENGA EYIOLAWI</span> */}
-             a piece of me
+             …𝓪 𝓹𝓲𝓮𝓬𝓮 𝓸𝓯 𝓶𝓮
             </p>
           </div>
           <div className="hidden lg:flex h-[3px] bg-[#FFFFFF] w-full"></div>
@@ -29,8 +29,7 @@ function HomeProfile() {
           />
         </div>
         <div>
-        <p className="text-center lg:text-start text-white font-poppins mt-[40px] lg:mt-[110px] space-y-[20px] text-[1
-        5px]">
+        <p className="text-center lg:text-start text-white font-poppins mt-[40px] lg:mt-[110px] space-y-[20px] text-[15px] md:text-[17px]">
           <p>
           Gbenga Eyiolawi, (a Chartered Manager with the Chartered 
           Management Institute, United Kingdom) born on November 7,
@@ -146,7 +145,7 @@ function HomeProfile() {
               <img src={grad} alt="" className="h-full w-full object-cover" />
             </div>
           </div>
-          <div className="w-full lg:flex-1 text-white text-center lg:text-start flex flex-col space-y-[40px] font-poppins">
+          <div className="w-full lg:flex-1 text-white text-center lg:text-start flex flex-col space-y-[40px] font-poppins text-[15px] md:text-[17px]">
             <p> 
             Gbenga is a trailblazer in agriculture and food processing in 
             Southwest Nigeria, best known for his transformative work 
@@ -247,21 +246,21 @@ function HomeProfile() {
             
           </div>
         </div>
-        <div className="mt-[110px] flex items-center justify-center" >
+        {/* <div className="mt-[110px] flex items-center justify-center" >
           <Link
             to="/about"
             className="bg-[#AE8625] p-[20px_32px] text-white font-poppins"
           >
             See more about myself
           </Link>
-        </div>
+        </div> */}
 
         <div className="pt-20">
         <div>
-          <h4 className="flex justify-center items-center text-white pb-10 text-[20px]">As seen in the News</h4>
+          <h4 className="flex justify-center items-center text-white pb-10 text-[20px]">…𝓘𝓷 𝓽𝓱𝓮 𝓷𝓮𝔀𝓼</h4>
         </div>
           {/* <marquee> */}
-          <div className="flex md:h-32 md:justify-evenly flex-col md:flex-row justify-center items-center">
+          <div className="flex md:h-32 justify-evenly flex-row justify-center items-center" onClick={()=>{}}>
           <img src={punch} className="w-20 h-20 md:w-36 md:h-36" />
           <img src={uneca} className="w-20 h-20 md:w-36 md:h-36" />
           <img src={von} className="w-20 h-20 md:w-36 md:h-36 mt-5" />
