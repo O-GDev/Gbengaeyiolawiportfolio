@@ -265,12 +265,12 @@ function HomeProfile() {
           {/* <marquee> */}
          
          <div className="flex md:h-32 justify-evenly flex-row items-center">
-         <a href="https://linktr.ee/gbengaeyiolawi">
+         {/* <a href="https://linktr.ee/gbengaeyiolawi">
           <img src={punch} className="w-12 h-12 md:w-36 md:h-36" />
          </a>
          <a href="https://linktr.ee/gbengaeyiolawi">
           <img src={uneca} className="w-12 h-12 md:w-36 md:h-36" />
-          </a>
+          </a> */}
           <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
           <img src={von} className="w-12 h-12 md:w-36 md:h-36" />
           </a>
