@@ -272,7 +272,7 @@ function HomeProfile() {
           <img src={uneca} className="w-12 h-12 md:w-36 md:h-36" />
           </a>
           <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
-          <img src={von} className="w-12 h-12 md:w-36 md:h-36 mt-5" />
+          <img src={von} className="w-12 h-12 md:w-36 md:h-36" />
           </a>
           <a href="https://businesselitesafrica.com/2021/09/14/gbenga-eyiolawi-how-this-entrepreneur-made-a-fortune-from-rice-farming/">
           <img src={businesselite} className="w-12 h-12 md:w-36 md:h-36" />
