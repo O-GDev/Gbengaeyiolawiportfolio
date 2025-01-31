@@ -260,7 +260,7 @@ function HomeProfile() {
           <h4 className="flex justify-center items-center text-white pb-10 text-[20px]">…𝓘𝓷 𝓽𝓱𝓮 𝓷𝓮𝔀𝓼</h4>
         </div>
           {/* <marquee> */}
-          <div className="flex md:h-32 justify-evenly flex-row justify-center items-center" onClick={()=>{}}>
+          <div className="flex md:h-32 justify-evenly flex-row items-center" onClick={()=>{}}>
           <img src={punch} className="w-20 h-20 md:w-36 md:h-36" />
           <img src={uneca} className="w-20 h-20 md:w-36 md:h-36" />
           <img src={von} className="w-20 h-20 md:w-36 md:h-36 mt-5" />
