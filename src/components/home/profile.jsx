@@ -272,16 +272,16 @@ function HomeProfile() {
           <img src={uneca} className="w-12 h-12 md:w-36 md:h-36" />
           </a> */}
           <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
-          <img src={von} className="w-12 h-12 md:w-36 md:h-36" />
+          <img src={von} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
           <a href="https://businesselitesafrica.com/2021/09/14/gbenga-eyiolawi-how-this-entrepreneur-made-a-fortune-from-rice-farming/">
-          <img src={businesselite} className="w-12 h-12 md:w-36 md:h-36" />
+          <img src={businesselite} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
           <a href="https://businessday.ng/agriculture/article/ooni-canvases-for-locally-made-products-as-titan-farms-open-rice-factory-in-ibadan/">
-          <img src={businessday} className="w-12 h-12 md:w-36 md:h-36" />
+          <img src={businessday} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
           <a href="https://tribuneonlineng.com/how-rail-transportation-ll-cause-reduction-in-price-of-rice-titan-farms-boss/">
-          <img src={tribune} className="w-12 h-12 md:w-36 md:h-36" />
+          <img src={tribune} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
           </div>
           {/* </marquee> */}
