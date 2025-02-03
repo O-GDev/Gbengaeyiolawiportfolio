@@ -13,7 +13,7 @@ function HomeHero() {
           <p className="text-white font-poppins text-[10px] text-center lg:text-[22px]">
           FOUNDER & CEO | CONTINUOUS IMPROVEMENT EXPERT | SCRUM MASTER | PROJECT MANAGEMENT PROFESSIONAL 
 
-CORE INTERESTS: PROPTECH + AGRITECH
+CORE INTERESTS: FINTECH + PROPTECH + AGRITECH
           </p>
          
         </div>
