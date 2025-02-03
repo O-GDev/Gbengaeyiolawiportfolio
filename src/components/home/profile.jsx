@@ -320,13 +320,13 @@ function HomeProfile() {
           <img src={von} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
           <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
-          {/* <img src={von} className="w-20 h-20 md:w-36 md:h-36" /> */}
+          <img src={von} className="w-20 h-20 md:w-36 md:h-36 opacity-0" />
           </a>
           <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
-          {/* <img src={von} className="w-20 h-20 md:w-36 md:h-36" /> */}
+          <img src={von} className="w-20 h-20 md:w-36 md:h-36 opacity-0" />
           </a>
           <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
-          {/* <img src={von} className="w-20 h-20 md:w-36 md:h-36" /> */}
+          <img src={von} className="w-20 h-20 md:w-36 md:h-36 opacity-0" />
           </a>
           </div>
 
