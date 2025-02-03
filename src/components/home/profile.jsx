@@ -255,7 +255,7 @@ function HomeProfile() {
           <h4 className="flex justify-center items-center text-white pb-10 text-[20px]">…𝓘𝓷 𝓽𝓱𝓮 𝓷𝓮𝔀𝓼</h4>
         </div>
        
-         <div className="flex md:h-32 justify-evenly flex-row items-center my-10">
+         <div className="flex md:h-32 justify-evenly flex-row items-center mb-10">
           <a href="https://punchng.com/its-never-too-late-to-start-gbenga-eyiolawi/">
           <img src={punch} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
