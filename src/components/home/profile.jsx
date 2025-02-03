@@ -270,10 +270,10 @@ function HomeProfile() {
         <div>
           <h4 className="flex justify-center items-center text-white pb-10 text-[20px]">…𝓘𝓷 𝓽𝓱𝓮 𝓷𝓮𝔀𝓼</h4>
         </div>
-         
+       
          <div className="flex md:h-32 justify-evenly flex-row items-center my-10">
-          <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
-          <img src={von} className="w-20 h-20 md:w-36 md:h-36" />
+          <a href="https://punchng.com/its-never-too-late-to-start-gbenga-eyiolawi/">
+          <img src={punch} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
           <a href="https://businesselitesafrica.com/2021/09/14/gbenga-eyiolawi-how-this-entrepreneur-made-a-fortune-from-rice-farming/">
           <img src={businesselite} className="w-20 h-20 md:w-36 md:h-36" />
@@ -287,34 +287,50 @@ function HomeProfile() {
           </div>
           
          <div className="flex md:h-32 justify-evenly flex-row items-center my-10">
-          <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
+          <a href="https://www.citypeopleonline.com/revealed-20-young-businessmen-making-waves-in-ibadan/">
           <img src={first} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
-          <a href="https://businesselitesafrica.com/2021/09/14/gbenga-eyiolawi-how-this-entrepreneur-made-a-fortune-from-rice-farming/">
+          <a href="https://independent.ng/titan-farms-assure-nigerians-adequate-rice-supply-attribute-shortfall-to-covid-19/">
           <img src={second} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
-          <a href="https://businessday.ng/agriculture/article/ooni-canvases-for-locally-made-products-as-titan-farms-open-rice-factory-in-ibadan/">
+          <a href="https://techmoran.com/2013/07/05/knack/?amp=1">
           <img src={third} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
-          <a href="https://tribuneonlineng.com/how-rail-transportation-ll-cause-reduction-in-price-of-rice-titan-farms-boss/">
+          <a href="https://pmnewsnigeria.com/2021/06/02/ooni-ado-bayero-others-advocate-support-for-local-food-production/">
           <img src={fourth} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
           </div>
           
          <div className="flex md:h-32 justify-evenly flex-row items-center my-10">
-          <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
+          <a href="https://newtelegraphng.com/olubadan-named-patron-of-titan-farms/">
           <img src={fifth} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
-          <a href="https://businesselitesafrica.com/2021/09/14/gbenga-eyiolawi-how-this-entrepreneur-made-a-fortune-from-rice-farming/">
+          <a href="https://guardian.ng/features/ooni-supports-home-made-foods-production-as-titan-farms-boosts-rice/ ">
           <img src={sixth} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
-          <a href="https://businessday.ng/agriculture/article/ooni-canvases-for-locally-made-products-as-titan-farms-open-rice-factory-in-ibadan/">
+          <a href="https://pmparrotng.com/2021/06/26/photos-oyo-deputy-gov-present-as-fiban-honours-celebrates-titan-farms-boss-aare-gbenga-eyiolawi/">
           <img src={seventh} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
-          <a href="https://tribuneonlineng.com/how-rail-transportation-ll-cause-reduction-in-price-of-rice-titan-farms-boss/">
+          <a href="https://www.thisdaylive.com/index.php/2021/10/28/investor-applauds-fg-says-nigeria-can-be-self-sufficient-in-rice-production/">
           <img src={eight} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
           </div>
+          <div className="flex md:h-32 justify-evenly flex-row items-center my-10">
+          <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
+          <img src={von} className="w-20 h-20 md:w-36 md:h-36" />
+          </a>
+          <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
+          {/* <img src={von} className="w-20 h-20 md:w-36 md:h-36" /> */}
+          </a>
+          <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
+          {/* <img src={von} className="w-20 h-20 md:w-36 md:h-36" /> */}
+          </a>
+          <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
+          {/* <img src={von} className="w-20 h-20 md:w-36 md:h-36" /> */}
+          </a>
+          </div>
+
+
         </div>
       </div>
    </>
