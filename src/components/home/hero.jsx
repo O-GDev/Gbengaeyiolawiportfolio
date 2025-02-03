@@ -11,7 +11,9 @@ function HomeHero() {
         </p>
         <div className="flex justify-center lg:justify-start items-center mt-[10px]  w-full lg:w-fit">
           <p className="text-white font-poppins text-[10px] text-center lg:text-[22px]">
-            SCRUM MASTER | PMP | DATA ANALYST BUSINESS ANALYST | CORE INTERESTS: FINTECH + AGRITECH
+          FOUNDER & CEO | CONTINUOUS IMPROVEMENT EXPERT | SCRUM MASTER | PROJECT MANAGEMENT PROFESSIONAL 
+
+CORE INTERESTS: PROPTECH + AGRITECH
           </p>
          
         </div>

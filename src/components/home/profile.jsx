@@ -6,6 +6,14 @@ import von from "../../assets/von.png"
 import businesselite from "../../assets/businesselite.png"
 import tribune from "../../assets/tribune.png"
 import businessday from "../../assets/businessday.png"
+import first from "../../assets/1.png"
+import second from "../../assets/2.png"
+import third from "../../assets/3.png"
+import fourth from "../../assets/4.png"
+import fifth from "../../assets/5.png"
+import sixth from "../../assets/6.png"
+import seventh from "../../assets/7.png"
+import eight from "../../assets/8.png"
 
 
 import { Link } from "react-router-dom";
@@ -262,15 +270,8 @@ function HomeProfile() {
         <div>
           <h4 className="flex justify-center items-center text-white pb-10 text-[20px]">…𝓘𝓷 𝓽𝓱𝓮 𝓷𝓮𝔀𝓼</h4>
         </div>
-          {/* <marquee> */}
          
-         <div className="flex md:h-32 justify-evenly flex-row items-center">
-         {/* <a href="https://linktr.ee/gbengaeyiolawi">
-          <img src={punch} className="w-12 h-12 md:w-36 md:h-36" />
-         </a>
-         <a href="https://linktr.ee/gbengaeyiolawi">
-          <img src={uneca} className="w-12 h-12 md:w-36 md:h-36" />
-          </a> */}
+         <div className="flex md:h-32 justify-evenly flex-row items-center my-10">
           <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
           <img src={von} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
@@ -284,7 +285,36 @@ function HomeProfile() {
           <img src={tribune} className="w-20 h-20 md:w-36 md:h-36" />
           </a>
           </div>
-          {/* </marquee> */}
+          
+         <div className="flex md:h-32 justify-evenly flex-row items-center my-10">
+          <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
+          <img src={first} className="w-20 h-20 md:w-36 md:h-36" />
+          </a>
+          <a href="https://businesselitesafrica.com/2021/09/14/gbenga-eyiolawi-how-this-entrepreneur-made-a-fortune-from-rice-farming/">
+          <img src={second} className="w-20 h-20 md:w-36 md:h-36" />
+          </a>
+          <a href="https://businessday.ng/agriculture/article/ooni-canvases-for-locally-made-products-as-titan-farms-open-rice-factory-in-ibadan/">
+          <img src={third} className="w-20 h-20 md:w-36 md:h-36" />
+          </a>
+          <a href="https://tribuneonlineng.com/how-rail-transportation-ll-cause-reduction-in-price-of-rice-titan-farms-boss/">
+          <img src={fourth} className="w-20 h-20 md:w-36 md:h-36" />
+          </a>
+          </div>
+          
+         <div className="flex md:h-32 justify-evenly flex-row items-center my-10">
+          <a href="https://von.gov.ng/rail-transport-will-crash-food-price-of-rice-expert/">
+          <img src={fifth} className="w-20 h-20 md:w-36 md:h-36" />
+          </a>
+          <a href="https://businesselitesafrica.com/2021/09/14/gbenga-eyiolawi-how-this-entrepreneur-made-a-fortune-from-rice-farming/">
+          <img src={sixth} className="w-20 h-20 md:w-36 md:h-36" />
+          </a>
+          <a href="https://businessday.ng/agriculture/article/ooni-canvases-for-locally-made-products-as-titan-farms-open-rice-factory-in-ibadan/">
+          <img src={seventh} className="w-20 h-20 md:w-36 md:h-36" />
+          </a>
+          <a href="https://tribuneonlineng.com/how-rail-transportation-ll-cause-reduction-in-price-of-rice-titan-farms-boss/">
+          <img src={eight} className="w-20 h-20 md:w-36 md:h-36" />
+          </a>
+          </div>
         </div>
       </div>
    </>
