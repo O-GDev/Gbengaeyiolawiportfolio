@@ -39,7 +39,8 @@ in operational excellence and strategic business transformations in the food ind
           Gbenga’s journey is as remarkable as it is inspiring. Raised in Osogbo and spending his formative years in Ile-Ife, Nigeria,
             his entrepreneurial spirit emerged early. At just 13, he began trading and hawking goods, quickly becoming known as "Baba- Leku," 
 the herbal maestro, for his role in connecting wholesale herbal merchants with local retailers. This early experience laid the foundation for his future success.
-            With several features in national newspapers, Gbenga’s influence in the food processing section is widely acknowledged. https://linktr.ee/gbengaeyiolawi. 
+            With several features in national newspapers, Gbenga’s influence in the food processing section is widely acknowledged. 
+<p>https://linktr.ee/gbengaeyiolawi. </p>
 He was a speaker at the United Nations Economic Commision for Africa and also spoke at several convocation events at Universities in Nigeria.
           </p>
           <p>
