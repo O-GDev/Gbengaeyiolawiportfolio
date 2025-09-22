@@ -186,10 +186,7 @@ audiences. The fashion venture reflects his commitment to innovation and excelle
 
               </p>
               <p>
-                OTHER CERTIFICATIONS 
-
-                - Certified in HACCP Level 3
-                - Certified in Food Allergen Awareness
+                He is also certified in HACCP Level 3 and certified in Food Allergen Awareness.
               </p>
             
           </div>
