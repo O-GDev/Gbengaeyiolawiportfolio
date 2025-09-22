@@ -27,7 +27,7 @@ function HomeProfile() {
             className="h-[200px] lg:h-[500px] object-cover  w-full"
           />
         </div>
-        <div>
+                      <div>
         <p className="text-center lg:text-start text-white font-poppins mt-[40px] lg:mt-[110px] space-y-[20px]">
           <p>
           Gbenga Eyiolawi, (a Chartered Manager with the Chartered Management Institute, United Kingdom) born on November 7, 1987, 
