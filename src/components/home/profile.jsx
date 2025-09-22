@@ -30,111 +30,60 @@ function HomeProfile() {
         <div>
         <p className="text-center lg:text-start text-white font-poppins mt-[40px] lg:mt-[110px] space-y-[20px]">
           <p>
-          Gbenga Eyiolawi, (a Chartered Manager with the Chartered 
-          Management Institute, United Kingdom) born on November 7,
-          1987, is a transformative Nigerian serial entrepreneur and 
-          visionary leader known for his groundbreaking contributions
-          across multiple sectors, including FinTech, AgriTech, and
-          PropTech. As the founder of Hybrid Improvements and Services,
-          with presence on 3 continents, he has made significant strides
-          in operational excellence and strategic business 
-          transformations.
+          Gbenga Eyiolawi, (a Chartered Manager with the Chartered Management Institute, United Kingdom) born on November 7, 1987, 
+is a transformative Nigerian serial entrepreneur and visionary leader known for his groundbreaking contributions across multiple sectors,
+            including FinTech, AgriTech, and PropTech. As the founder of Titan Farms and Hybrid Improvements, he has made significant strides 
+in operational excellence and strategic business transformations in the food industry and beyond.
           </p>
           <p>
-          Gbenga’s journey is as remarkable as it is inspiring. Raised in
-          Osogbo and spending his formative years in Ile-Ife, Nigeria, his
-          entrepreneurial spirit emerged early. At just 13, he began 
-          trading and hawking goods, quickly becoming known as "Baba-
-          Leku," the herbal maestro, for his role in connecting wholesale
-          herbal merchants with local retailers. This early experience laid 
-          the foundation for his future success.
+          Gbenga’s journey is as remarkable as it is inspiring. Raised in Osogbo and spending his formative years in Ile-Ife, Nigeria,
+            his entrepreneurial spirit emerged early. At just 13, he began trading and hawking goods, quickly becoming known as "Baba- Leku," 
+the herbal maestro, for his role in connecting wholesale herbal merchants with local retailers. This early experience laid the foundation for his future success.
+            With several features in national newspapers, Gbenga’s influence in the food processing section is widely acknowledged. https://linktr.ee/gbengaeyiolawi. 
+He was a speaker at the United Nations Economic Commision for Africa and also spoke at several convocation events at Universities in Nigeria.
           </p>
           <p>
-            Despite facing numerous challenges, Gbenga's resilience and 
-            adaptability propelled him from humble beginnings to become 
-            a respected leader in the corporate world. His path was marked
-            by personal sacrifices and a relentless drive to turn setbacks into 
-            opportunities for growth. His journey from a young street trader
-            to a distinguished professional in boardrooms and consulting 
-            roles is a testament to his unyielding determination.
+            Despite facing numerous challenges, Gbenga's resilience and adaptability propelled him from humble beginnings to become a respected leader in the corporate world.
+ His path was marked by personal sacrifices and a relentless drive to turn setbacks into opportunities for growth. His journey from a young street trader to a distinguished 
+professional in boardrooms and consulting roles is a testament to his unyielding determination.
           </p>
           <p>
-           Gbenga's academic journey began at Obafemi Awolowo 
-            University, Ile-Ife, where he pursued Chemical Engineering
-            before his love for business altered his path. He later obtained a 
-            Bachelor's degree in Business Administration in 2015 and 
-            followed this with a Master of Business Administration (MBA) 
-            from Espam Formation University in 2018. His academic
-            achievements culminated in an honorary Doctor of Science
-            (D.Sc) degree in Entrepreneurship and Agricultural
-            Development from European American University in the
-            Commonwealth of Dominica.
+           Gbenga's academic journey began at Obafemi Awolowo University, Ile-Ife, where he pursued Chemical Engineering before his love for business altered his path.
+            He later obtained a Bachelor's degree in Business Administration in 2015 and followed this with a Master of Business Administration (MBA) from Espam Formation 
+University in 2018. His academic achievements culminated in an honorary Doctor of Science (D.Sc) degree in Entrepreneurship and Agricultural Development from European American 
+University in the Commonwealth of Dominica.
           </p>
            <p>
-           Gbenga's academic achievements include a Diploma in Business
-           and Management from the University of Liverpool, a Diploma in 
-           Sustainable Real Estate from the University of Cambridge. He is 
-           also a Certified Scrum Master, Project Management Professional 
-           and a Master Black Belt in Lean six sigma as well as a 
-           certification in Risk Management Assurance and Managing
-           safely by IOSH.
+           Gbenga's academic achievements include a Diploma in Business and Management from the University of Liverpool, a Diploma in Sustainable Real Estate from the University 
+of Cambridge. He is also a Certified Scrum Master, Project Management Professional and a Master Black Belt in Lean six sigma as well as a certification in Risk Management Assurance 
+and Managing safely by IOSH.
            </p>
             <p>
-            Leveraging his vast industry experience, Gbenga established 
-            Hybrid Improvements and Services to bring cutting-edge 
-            business improvement strategies to companies across the
-            globe. His firm has been pivotal in transforming businesses by 
-            enhancing operational efficiencies, driving down production 
-            costs, and increasing team productivity. 
+            Leveraging his vast industry experience, Gbenga established Hybrid Improvements to bring cutting-edge business improvement strategies to food manufacturing companies across 
+the globe. His firm has been pivotal in transforming businesses by enhancing operational efficiencies, driving down production costs, and increasing team productivity.
             </p>
 
             <p>
-              In his role as a lead consultant, Gbenga has spearheaded
-              projects that reduced production downtime by an average of 
-              25%, cut waste by an average of 15%, and improved production 
-              efficiency by an average 20% across all companies that was 
-              serviced using Lean Six Sigma methodologies. 
-              His strategic guidance has led companies to achieve 100%
-              compliance with industry standards, enhancing quality control 
-              measures and drastically reducing product defects.
-            
+              In his role as a lead consultant, Gbenga has spearheaded projects that reduced production downtime by an average of 25%, cut waste by an average of 15%, and improved
+             production efficiency by an average 20% across all companies that was serviced using Lean Six Sigma methodologies. His strategic guidance has led companies to achieve 
+              100% compliance with industry standards, enhancing quality control measures and drastically reducing product defects.
             </p>
               <p>
-                Operating as the CEO and lead consultant, Gbenga manages
-                large-scale projects and has led teams across various industries, 
-                ranging from food manufacturing to Information Technology.
-                His consultancy's global reach has allowed him to implement
-                best practices in different operational environments, including
-                reducing waste, optimising labor, and introducing advanced
-                business intelligence tools like Power BI and Data Pine to ensure 
-                insightful decision-making.
+                Operating as the CEO and lead consultant, Gbenga manages large-scale projects and has led teams across various industries, ranging from food manufacturing to 
+Information Technology. His consultancy's wide reach has allowed him to implement best practices in different operational environments, including reducing waste, optimising labor, 
+and introducing advanced business intelligence tools like Power BI and Data Pine to ensure insightful decision-making.
               </p>
               <p>
-              In 2013, Gbenga expanded his entrepreneurial ventures by 
-              launching Knack International, an ICT company focused on 
-              providing cutting-edge technology solutions and consultancy 
-              services. Under his leadership, Knack International quickly 
-              established itself as a key player in the tech industry by 
-              producing Tablet PCs and mobile phones, delivering innovative
-              solutions and fostering digital transformation across various
-              sectors. 
+              In 2013, Gbenga expanded his entrepreneurial ventures by launching Knack International, an ICT company focused on providing cutting-edge technology solutions and 
+consultancy services. Under his leadership, Knack International quickly established itself as a key player in the tech industry by producing Tablet PCs and mobile phones, 
+delivering innovative solutions and fostering digital transformation across various sectors.
               </p>
                <p>
-               In 2017, Gbenga made headlines with the launch of Peg & Red 
-               Casuals, a fashion business that combines contemporary design 
-               with traditional craftsmanship. In an interview about Peg & Red,
-               Gbenga emphasised his vision of blending fashion with
-               functionality, aiming to create stylish yet practical clothing
-               options for diverse audiences. The fashion venture reflects his
-               commitment to innovation and excellence in all his business 
-               endeavours. He emphasised that it is never too late to start
-               business. (Punch Newspaper)
-               </p>
-                
-
+              In 2017, Gbenga made headlines with the launch of Peg & Red Casuals, a fashion business that combines contemporary design with traditional craftsmanship. 
+In an interview about Peg & Red, Gbenga emphasised his vision of blending fashion with functionality, aiming to create stylish yet practical clothing options for diverse 
+audiences. The fashion venture reflects his commitment to innovation and excellence in all his business endeavours. He emphasised that it is never too late to start business. (Punch Newspaper).</p>
                 </p>
       </div>
-        
            </div>
       </div>
       <div>
